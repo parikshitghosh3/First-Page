@@ -1,0 +1,43 @@
+/*Selector{
+	Property:value;
+}*/
+body{
+	background-image: url(pic3.jpg);
+	background-size: cover;
+
+}
+a{
+	margin: 5px;
+}
+#web3{
+	
+	padding: 40px;
+}
+.web2{
+	border: 4px solid black;
+	padding: 10px;
+	margin: 6px;
+	font-weight: bold;
+	font-size: 21px;
+}
+h1{
+	color : blue;
+	border: 5px;
+	text-align: center;
+	font-size: 90px;
+
+}
+
+p{
+	font-family:Georgia;
+	line-height: 25px
+
+}
+img{
+	float: right;
+}
+
+li{
+	list-style: none;
+	line-height: 30px;
+}
